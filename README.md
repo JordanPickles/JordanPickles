@@ -1,6 +1,6 @@
 :airplane: Revenue Analyst in the Airline Industry
 
-:books: Student at Ai Core developing data science skills - Python and SQL
+:books: Student at [Ai Core](https://www.theaicore.com) developing data science skills - Python and SQL
 
 :mortar_board: BSc Sport and Exercise Science, Master of Phillosophy (MPhil) Exercise and Health Science
 
@@ -10,7 +10,7 @@
 
 Email: jordan.l.pickles@gmail.com 
 
-Linkedin: https://www.linkedin.com/in/jordan-pickles/
+[Linkedin profile](https://www.theaicore.com)
 
 
 
