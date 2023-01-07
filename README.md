@@ -2,7 +2,7 @@
 
 :books: Student at Ai Core developing data science skills - Python and SQL
 
-:mortar_board: BSc Sport and Exercise Sciences, Master of Phillosophy (MPhil).
+:mortar_board: BSc Sport and Exercise Sciences, Master of Phillosophy (MPhil) Exercise and Health Science
 
 :microscope: Background in Human Scientific Research
 
