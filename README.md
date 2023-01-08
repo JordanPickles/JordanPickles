@@ -6,7 +6,7 @@
 
 :microscope: Background in Human Scientific Research | [Research available here](https://scholar.google.com/citations?hl=en&user=BaBkH0oAAAAJ)
 
-:mailbox: Email: jordan.l.pickles@gmail.com   | [Linkedin profile](https://www.theaicore.com)
+:mailbox: Email: jordan.l.pickles@gmail.com   | [Linkedin profile](https://www.linkedin.com/in/jordan-pickles/)
 
 
 
