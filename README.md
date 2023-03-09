@@ -1,6 +1,6 @@
 :airplane: Revenue Analyst in the Airline Industry
 
-:books: Student at [Ai Core](https://www.theaicore.com) developing data science skills 
+:books: Graduated from the [Ai Core](https://www.theaicore.com) data science career acelerator
 
 :mortar_board: BSc Sport and Exercise Science, Master of Phillosophy (MPhil) Sport and Exercise Science
 
