@@ -1,4 +1,4 @@
-:airplane: Revenue Data Analyst in the Aviation Industry
+:airplane: Commercial Data Analyst in the Aviation Industry
 
 :books: Graduated from the [Ai Core](https://www.theaicore.com) data science career acelerator
 
