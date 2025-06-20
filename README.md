@@ -1,4 +1,4 @@
-:airplane: Commercial Data Analyst in the Aviation Industry
+:airplane: Senior Data Analyst in the Aviation and Travel Industry
 
 :books: Graduated from the [Ai Core](https://www.theaicore.com) data science career acelerator
 
